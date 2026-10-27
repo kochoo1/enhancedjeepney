@@ -1,0 +1,41 @@
+
+=== TRADITIONAL JEEPNEY ===
+Route: Cubao - Divisoria
+Capacity: 20
+Current Passengers: 10
+Available Seats: 10
+---------------------------
+=== MODERN JEEPNEY ===
+Route: Quiapo - Baclaran
+Capacity: 15
+Current Passengers: 5
+Available Seats: 10
+---------------------------
+5 passenger(s) boarded the Cubao - Divisoria jeepney.
+8 passenger(s) boarded the Quiapo - Baclaran jeepney.
+
+=== UPDATED JEEPNEY INFORMATION ===
+=== TRADITIONAL JEEPNEY ===
+Route: Cubao - Divisoria
+Capacity: 20
+Current Passengers: 15
+Available Seats: 5
+---------------------------
+=== MODERN JEEPNEY ===
+Route: Quiapo - Baclaran
+Capacity: 15
+Current Passengers: 13
+Available Seats: 2
+---------------------------
+Passengers in first jeepney: 15
+
+=== FARE CALCULATION ===
+Traditional Jeepney Fare: PHP 195.0
+Modern Jeepney Fare: PHP 182.0
+
+=== MAINTENANCE CHECK ===
+Maintenance check completed.
+Maintenance Station: Quezon City Station
+Maintenance check completed.
+
+Exited.
